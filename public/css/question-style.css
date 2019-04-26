@@ -1,0 +1,18 @@
+.c-row{
+    background: #363636;
+}
+.c-row p{
+    color: #F7F64E;
+}
+.c-row i{
+    color: white;
+}
+
+section img{
+    height: 70px;
+    width: 70px;
+}
+
+.c-row2{
+    font-size: 12px;
+}
